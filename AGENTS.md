@@ -15,3 +15,7 @@ When a task benefits from an interactive, physically grounded SVG, WebGL, or exp
 - **Optional, not a runtime dependency.** Do not install or execute remote code automatically on ordinary startup, overwrite an existing agent skill, add GPU spend, or publish designs to third-party galleries. Pin and inspect the source and confirm installed SHA.
 - For prototypes: match motion, labels and numerical outputs to an independently testable model; check desktop/mobile, keyboard, reduced motion, contrast, accessibility and actual screenshots. 3D renders are **not** validated engineering, safety, or physics simulations.
 - Triage by project relevance; protect customer, merchant, learner and company-private data. No claim of deployment, test pass, customer adoption or revenue without evidence.
+
+## Source Vault — opt-in public reference workflow (PRY-281)
+
+For research and knowledge workflows, Codex can consult `.agents/skills/pryntor-source-vault/SKILL.md` and Claude can consult `.claude/skills/pryntor-source-vault/SKILL.md`. Approved purpose: Published documentation, public market research and original sourced analyses. Never ingest connected inboxes, drive/slack/crm private records, attachments, cookies and customer content. No account connections, credentials, recurring scrape, backend installation, database syncing, paid providers, or production data. This is an optional research router, not an executable runtime, and not Pond installed. Central rules: https://github.com/LLoliwe/Anthropic-skills/blob/main/skills/pryntor-source-vault/COMPANY_ADOPTION.md .
